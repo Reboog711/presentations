@@ -10,6 +10,7 @@ I hope to flesh this out over time from my archive, I have pitched 35 unique pre
 
 ## Introduction to Angular 
 
+* Given at JavaScript and Friends https://www.javascriptandfriends.com/ on August 20, 2021
 * Given at Norwalk.io https://www.meetup.com/Norwalk-IO/ on July 17, 2019
 * Given as Internal presentation to Disney Streaming Services in 2019.
 
