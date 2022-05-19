@@ -8,6 +8,10 @@ This is part for my own records, and part to share with you.
 
 I hope to flesh this out over time from my archive, I have pitched 35 unique presentations according to my notes and most were created to full fledged presentations that were given more than once.
 
+## Optimizing Angular Components for Reuse
+
+* Given at Angular Community Meetup https://angularcommunity.net/home on May 17, 2022
+
 ## Introduction to Angular 
 
 * Given at JavaScript and Friends https://www.javascriptandfriends.com/ on August 20, 2021

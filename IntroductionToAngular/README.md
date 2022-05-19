@@ -1,6 +1,6 @@
 # Introduction to Angular by Jeffry Houser
 
-Look for the prensetation in the slides directory and the samples in the samples directory.
+Look for the presentation in the slides directory and the samples in the samples directory.
 
 # Need Help?
 
